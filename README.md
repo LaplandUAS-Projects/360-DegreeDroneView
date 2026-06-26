@@ -1,4 +1,5 @@
 # Dronepohjainen 360 videoratkaisu
+Dronepohjainen 360 asteen videoratkaisu on esimerkki siitä, miten olemassa olevaa kuvaus- ja paikkatietoteknologiaa voidaan yhdistää uudenlaisen, immersiivisen käyttäjäkokemuksen tuottamiseksi. Toteutettiin Google Street View -tyylinen liikuttava näkymä hyödyntäen dronekuvausta ja 360° videotekniikkaa. Ratkaisussa käyttäjä voi tarkastella ympäristöä vapaasti ja edetä kuvattua reittiä pitkin saumattomasti. 
 
 ## Equipment
 * [DJI Mavic Pro](https://www.dji.com/fi/support/product/mavic)
