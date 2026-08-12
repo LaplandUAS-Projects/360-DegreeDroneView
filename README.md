@@ -63,28 +63,6 @@ Dronepohjainen 360 asteen videoratkaisu on esimerkki siitä, miten olemassa olev
 * [DJI Mavic Pro](https://www.dji.com/fi/support/product/mavic)
 * [3D printed parts and accessories](https://github.com/LaplandUAS-Projects/360-DegreeDroneView/tree/main/cad)
 
-## Mekaniikka
-Selitä mekaniikka
-
-## Elektroniikka
-Selitä elektroniikka. Esimerkki linkeistä --->  [HC-12](https://www.allaboutcircuits.com/projects/understanding-and-implementing-the-hc-12-wireless-transceiver-module/) 
-
-Esimerkki kytkennöistä
-| Micro-USB Pin  | Label |
-| ------------- |:-------------:|
-| 1      | GND  |
-| 2      | 5V   |
-| 3      | 1.5V |
-| 4      |?     |
-| 5      |?     |
-
-esimerkki varoituksesta
-> [!CAUTION]
-> The DJI Mavic pro doesn't follow any USB standard for it's add-on port. Use third party devices on this port at your own risk!
-
-esimerkki korostuksesta
-Only pins `1 & 2` are necessary for this application.
-
 -----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/img/logot/license.png">
