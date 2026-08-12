@@ -61,13 +61,7 @@ Dronepohjainen 360 asteen videoratkaisu on esimerkki siitä, miten olemassa olev
 
 ## Laitteisto
 * [DJI Mavic Pro](https://www.dji.com/fi/support/product/mavic)
-* [Arduino Nano](https://store.arduino.cc/products/arduino-nano)
-* 250mL syringe
-* Steel compression spring
-* 5-6V DC Peristatic pump
-* UART Transciever modules 2X
-* [Motor driver circuit](https://github.com/LaplandUAS/Verijalki/tree/main/pcb)
-* [3D printed parts and accessories](https://github.com/LaplandUAS/Verijalki/tree/main/cad)
+* [3D printed parts and accessories](https://github.com/LaplandUAS-Projects/360-DegreeDroneView/tree/main/cad)
 
 ## Mekaniikka
 Selitä mekaniikka
